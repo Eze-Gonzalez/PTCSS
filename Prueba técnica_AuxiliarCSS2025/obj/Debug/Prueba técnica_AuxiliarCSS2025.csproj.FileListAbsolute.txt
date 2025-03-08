@@ -1,0 +1,7 @@
+C:\Users\eze_1\source\repos\Prueba técnica_AuxiliarCSS2025\Prueba técnica_AuxiliarCSS2025\bin\Debug\Prueba técnica_AuxiliarCSS2025.exe.config
+C:\Users\eze_1\source\repos\Prueba técnica_AuxiliarCSS2025\Prueba técnica_AuxiliarCSS2025\bin\Debug\Prueba técnica_AuxiliarCSS2025.exe
+C:\Users\eze_1\source\repos\Prueba técnica_AuxiliarCSS2025\Prueba técnica_AuxiliarCSS2025\bin\Debug\Prueba técnica_AuxiliarCSS2025.pdb
+C:\Users\eze_1\source\repos\Prueba técnica_AuxiliarCSS2025\Prueba técnica_AuxiliarCSS2025\obj\Debug\Prueba técnica_AuxiliarCSS2025.csproj.AssemblyReference.cache
+C:\Users\eze_1\source\repos\Prueba técnica_AuxiliarCSS2025\Prueba técnica_AuxiliarCSS2025\obj\Debug\Prueba técnica_AuxiliarCSS2025.csproj.CoreCompileInputs.cache
+C:\Users\eze_1\source\repos\Prueba técnica_AuxiliarCSS2025\Prueba técnica_AuxiliarCSS2025\obj\Debug\Prueba técnica_AuxiliarCSS2025.exe
+C:\Users\eze_1\source\repos\Prueba técnica_AuxiliarCSS2025\Prueba técnica_AuxiliarCSS2025\obj\Debug\Prueba técnica_AuxiliarCSS2025.pdb
